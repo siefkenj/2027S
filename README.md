@@ -2,6 +2,8 @@
 
 Course slides for the Winter 2027 semester, written in [Typst](https://typst.app).
 
+**Built slides: <https://siefkenj.github.io/2027S/>**
+
 | Folder | Course |
 | --- | --- |
 | [`MAT149`](MAT149) | Calculus II with Proofs |
@@ -11,7 +13,7 @@ Course slides for the Winter 2027 semester, written in [Typst](https://typst.app
 
 GitHub Actions builds every deck on each push to `main` and publishes the PDFs,
 together with the landing page in [`website/landing-page`](website/landing-page),
-to GitHub Pages.
+to [GitHub Pages](https://siefkenj.github.io/2027S/).
 
 To build a deck locally, run from this directory:
 
